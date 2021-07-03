@@ -132,31 +132,33 @@ header nav ul li a {
     min-height: 400px !important;
     flex-basis: 100% !important;
     background-repeat: no-repeat;
+    background-image: url(../images/Pour-Decisions.png);
+    background-size: cover; 
+}
+
+.two {
     background-image: url(../images/goodnewsly_screenshot.png);
     background-size: cover; 
 }
 
 
-.two {
+.three {
     background-image: url(../images/Workday-Scheduler.jpg);
     background-size: cover; 
 }
 
 
-.three {
-    background-image: url(../images/2021-04-04_2.png);
+.four {
+    background-image: url(../images/Notes.jpg);
     background-size: cover; 
 }
 
 
-.four {
+.five {
     background-image: url(../images/digital-marketing-meeting.jpg);
     background-size: cover; 
 }
 
-.five {
-    background-image: url(../images/coloured-pastels-mevans.jpg);
-}
 .section-title {
     color: var(--primary-color);
     border-right: 3px solid;
